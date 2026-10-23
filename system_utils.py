@@ -12,4 +12,4 @@ def get_system_health():
         "Disk Usage": disk
     }
 
-    print("System Health Information: \n " , System_Info) 
+    return(System_Info) 
