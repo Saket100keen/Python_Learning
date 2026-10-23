@@ -1,5 +1,5 @@
-#from system_utils import get_system_health
-#get_system_health()
+from system_utils import get_system_health
+get_system_health()
 
 from test.system_utils import get_system_health
 
