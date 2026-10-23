@@ -6,7 +6,7 @@ Learning python
 U can use it to learn python
 <br>
 <br>
-Day-1 has the basics like
+Day-1.py has the basics like
 <br>
 1. Variables
 <br>
@@ -21,3 +21,28 @@ Day-1 has the basics like
 6.How to check type of variable
 <br>
 7.Print function
+<br>
+<br>
+Cpu_check.py has 
+<br>
+1. How to take input from user
+<br>
+2. Conditional Statements[Use Case]
+<br>
+<br>
+Real_cpu.py has 
+<br>
+1.psutil librabry
+<br>
+2. dir
+<br>
+3.__doc__
+<br>
+4. Loops
+<br>
+5. Loops with Conditional Statement
+<br>
+<br>
+System_utils.py has 
+<br>
+1.Some more use of psutil
