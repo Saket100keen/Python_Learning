@@ -23,6 +23,6 @@ def list_s3_buckets():
     buckets = []
     for bucket in s3.buckets.all():
         print(bucket.name)
-        buckets.append(bucket.name)
+        buckets.append(bucket.name) 
     return {"buckets": buckets}
 
