@@ -46,3 +46,14 @@ Real_cpu.py has
 System_utils.py has 
 <br>
 1.Some more use of psutil
+<br>
+2.created a reuseable function
+<br>
+<br>
+Show.py has
+<br>
+1. how to use a reuseable function
+<br>
+2. how to import it from different folder and how to use it 
+<br>
+<br>
