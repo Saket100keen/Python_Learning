@@ -1,4 +1,4 @@
-import requests
+import requests #type: ignore
 
 url = "https://fake-json-api.mock.beeceptor.com/users"
 
